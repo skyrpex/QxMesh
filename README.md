@@ -13,17 +13,13 @@ What can you do
 Libraries used
 --------------
 
-- [QxClipper](https://github.com/Skyrpex/QxClipper)
-Polygon clipping library for Qt.
+- **QxClipper:** Polygon clipping library for Qt.
 
-- [QxPoly2Tri](https://github.com/Skyrpex/QxPoly2Tri)
-Constrained Delaunay triangulation library for Qt.
+- **QxPoly2Tri:** Constrained Delaunay triangulation library for Qt.
 
-- [QxPotrace](https://github.com/Skyrpex/QxPotrace)
-Image to polygon library for Qt.
+- **QxPotrace:** Image to polygon library for Qt.
 
-- [QxPSimpl](https://github.com/Skyrpex/QxPSimpl)
-Polygon simplification library for Qt.
+- **QxPSimpl:** Polygon simplification library for Qt.
 
 
 
