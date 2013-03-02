@@ -1,0 +1,12 @@
+﻿#ifndef QXPOLY2TRI_GLOBAL_H
+#define QXPOLY2TRI_GLOBAL_H
+
+#include <QtGlobal>
+
+#if defined(QXPOLY2TRI_LIBRARY)
+#  define QXPOLY2TRI_EXPORT Q_DECL_EXPORT
+#else
+#  define QXPOLY2TRI_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // QXPOLY2TRI_GLOBAL_H
